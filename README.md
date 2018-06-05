@@ -3,7 +3,7 @@ This is a collection of conformance bit-streams for AVS2-P2/IEEE 1857.4  video c
 
 ## Usage
 #### Directory Structure
-Test samples are placed in the directory like `mux_type/testing_name_M`.
+Test samples are placed in the directory like `mux/testing_name_M`.
 
 #### Samples
 The samples are named like `test.avs2` in its directory.  For each sample,  the `md5` of the reconstruction YUV data is stored in `md5.txt` in the same directory.
